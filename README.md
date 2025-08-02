@@ -1,4 +1,4 @@
-# 📊 Sales Analysis | Amazon Products Dashboard – Power BI
+# 📊 Netflix Movies & TV Shows Analysis Dashboard – Power BI
 
 ## 🧠 Project Overview
 I developed a fully interactive dashboard using Power BI to analyze and visualize trends in Netflix’s global content library. The dashboard provides insights into content distribution, genre popularity, release patterns, ratings, and country-wise contributions. This project helps stakeholders and content strategists understand audience preferences, track content expansion, and make data-informed decisions for content planning and user engagement.
